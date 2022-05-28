@@ -1,13 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
 
-
 :root{
 
   --selected-theme-background-color : var(--yellow-theme-background-color);
   --selected-theme-main-color : var(--yellow-theme-main-color);
   --selected-theme-sub-text-color : var(--yellow-theme-sub-text-color);
   --selected-theme-nav-background-color : var(--yellow-theme-nav-background-color);
-
 
   /* primary color selection below */
   --yellow-theme-background-color : #1d1d1d;
